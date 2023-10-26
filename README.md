@@ -26,9 +26,9 @@
 ### 🤝 Социальные сети:
 <div>
     <a href="https://t.me/XenNart" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" title="Telegram" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111552.png" width="40" height="40" title="Telegram" alt="telegram" />
     </a>
     <a href="https://api.whatsapp.com/send/?phone=79872225886" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111647.png" width="40" height="40" title="WhatsApp" alt="WhatsApp" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111650.png" width="40" height="40" title="WhatsApp" alt="WhatsApp" />
     </a>  
     </div>
