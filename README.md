@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
 </div>
 
-## Привет! Меня зовут Ксения
-
-
-### 👨‍💻 Я обучаюсь на QA engineer. С моим портфолио можно ознакомиться здесь: 
-
+### Привет! Меня зовут Ксения👋
+👨‍💻 Я обучаюсь на QA engineer. С моим портфолио можно ознакомиться здесь: 
+___
 ### 📁 Тестовая документация:
 <div>
   <a href="https://docs.google.com/spreadsheets/d/1RquFFT34tgGGWtGbmzxj0MI5jWH3Ib2IPsVFewWMTvg/edit#gid=0" target="_blank">
@@ -23,7 +21,7 @@
   </a>
 </div>
 
----
+___
 ### 🤝 Социальные сети:
 <div>
     <a href="https://t.me/XenNart" target="_blank">
