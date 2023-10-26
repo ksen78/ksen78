@@ -12,13 +12,22 @@
 ### 📁 Тестовая документация:
 <div>
   <a href="https://docs.google.com/spreadsheets/d/1RquFFT34tgGGWtGbmzxj0MI5jWH3Ib2IPsVFewWMTvg/edit#gid=0" target="_blank">
-  <img src="https://img.shields.io/badge/Check-list-38ACEC?style=for-the-badge&logo=cachet&logoColor=157DEC" title="check-list" alt="check-list"/>&nbsp
+  <img src="https://img.shields.io/badge/Check-list-38ACEC?style=for-the-badge&logo=cachet&logoColor=157DEC" width="150" title="check-list" alt="check-list"/>
+  </a>
+</div>
+<div>
   <a href="https://docs.google.com/spreadsheets/d/1zNcrQt5tQ4J7zBNCgEvwkSlNzNT4BHB9pCDsuCcvj5Y/edit#gid=96675316" target="_blank">
-  <img src="https://img.shields.io/badge/Test-case-38ACEC?style=for-the-badge&logo=carrd&logoColor=157DEC" title="Test-case" alt="Test-case"/>&nbsp
+  <img src="https://img.shields.io/badge/Test-case-38ACEC?style=for-the-badge&logo=carrd&logoColor=157DEC" width="150" title="Test-case" alt="Test-case"/>
+  </a>
+</div>
+<div>
   <a href="https://docs.google.com/spreadsheets/d/1VrnnjKBufR_c3OVDd-5ZN1UDNp8p2fYBWYsAr8NoOf0/edit#gid=1329543775" target="_blank">
-  <img src="https://img.shields.io/badge/Test-suite-38ACEC?style=for-the-badge&logo=databricks&logoColor=157DEC" title="Test-suite" alt="Test-suite"/>&nbsp    
+  <img src="https://img.shields.io/badge/Test-suite-38ACEC?style=for-the-badge&logo=databricks&logoColor=157DEC" width="150" title="Test-suite" alt="Test-suite"/>
+  </a>
+</div>
+<div>
   <a href="https://docs.google.com/spreadsheets/d/1zJogtwnHwiLcqaaOLfrx1QRoEqy_Kvcq0z2JA7zVgkg/edit#gid=0" target="_blank">
-  <img src="https://img.shields.io/badge/Bug-report-38ACEC?style=for-the-badge&logo=darkreader&logoColor=157DEC" title="Bug report" alt="Bug report"/>&nbsp
+  <img src="https://img.shields.io/badge/Bug-report-38ACEC?style=for-the-badge&logo=darkreader&logoColor=157DEC" width="150" title="Bug report" alt="Bug report"/>
   </a>
 </div>
 
